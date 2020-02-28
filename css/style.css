@@ -1,0 +1,29 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+.socials {
+    font-size: 35px;
+}
+#social-text {
+    font-size: 25px;
+}
+.fab {
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#logo {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.jumbotron {
+    height: 100vh;
+}
+.content {
+    text-align: center;
+}
+.section {
+    padding-bottom: 7%;
+}
